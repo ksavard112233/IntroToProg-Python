@@ -1,0 +1,3 @@
+walk the dog,high
+make bed,low
+brush teeth,med
